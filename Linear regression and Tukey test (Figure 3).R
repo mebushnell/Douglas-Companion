@@ -1,5 +1,5 @@
 #Set your working directory.
-setwd("G:/Ch 7 2025-02-03")
+setwd("[your working directory here; use forward slashes]")
 
 #Load in the packages. 
 library(ggplot2)
